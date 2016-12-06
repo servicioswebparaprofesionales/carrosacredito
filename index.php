@@ -55,7 +55,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
   <div class="w3-content">
     <div class="w3-twothird">
       <h1>Introductorio de la P&aacute;gina</h1>
-      <h5 class="w3-padding-12">Mensaje explicativo sobre el contenido que se le presentar&aacute; a continuaci&oacute;n, a trav&eacute;s de las diferentes p&aacute;ginas del tiene este contenido ira cambiando</h5>
+      <h5 class="w3-padding-12">Mensaje explicativo sobre el contenido que se le presentar&aacute; a continuaci&oacute;n, a trav&eacute;s de las diferentes p&aacute;ginas del sitio este contenido ir&aacute; cambiando</h5>
 
       <p class="w3-text-grey">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint
         occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
